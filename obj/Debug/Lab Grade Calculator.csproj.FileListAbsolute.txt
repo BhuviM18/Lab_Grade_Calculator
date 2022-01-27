@@ -1,0 +1,8 @@
+C:\Users\Bhuvaneswar Reddy\Desktop\Univesity Grade Calculator\bin\Debug\Univesity Grade Calculator.exe.config
+C:\Users\Bhuvaneswar Reddy\Desktop\Univesity Grade Calculator\bin\Debug\Univesity Grade Calculator.exe
+C:\Users\Bhuvaneswar Reddy\Desktop\Univesity Grade Calculator\bin\Debug\Univesity Grade Calculator.pdb
+C:\Users\Bhuvaneswar Reddy\Desktop\Univesity Grade Calculator\obj\Debug\Univesity_Grade_Calculator.MainProgram.resources
+C:\Users\Bhuvaneswar Reddy\Desktop\Univesity Grade Calculator\obj\Debug\Univesity_Grade_Calculator.Properties.Resources.resources
+C:\Users\Bhuvaneswar Reddy\Desktop\Univesity Grade Calculator\obj\Debug\Lab Grade Calculator.csproj.GenerateResource.Cache
+C:\Users\Bhuvaneswar Reddy\Desktop\Univesity Grade Calculator\obj\Debug\Univesity Grade Calculator.exe
+C:\Users\Bhuvaneswar Reddy\Desktop\Univesity Grade Calculator\obj\Debug\Univesity Grade Calculator.pdb
